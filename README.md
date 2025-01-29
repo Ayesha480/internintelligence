@@ -48,3 +48,5 @@ Microsoft Excel for data manipulation
 SPSS for statistical analysis
 
 ![image-alt](https://github.com/Ayesha480/internintelligence/blob/main/excel.JPG?raw=true)
+
+![image-alt](https://github.com/Ayesha480/internintelligence/blob/main/Capture.JPG?raw=true)
