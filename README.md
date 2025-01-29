@@ -46,3 +46,5 @@ Power BI Desktop for viewing the dashboard
 Microsoft Excel for data manipulation
 
 SPSS for statistical analysis
+
+![image-alt]
